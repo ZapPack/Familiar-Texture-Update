@@ -26,3 +26,8 @@ ehthumbs_vista.db
 .directory
 .Trash-*
 .nfs*
+
+classic/
+override/
+EXTRA/
+MISC/
